@@ -1,0 +1,15 @@
+# Ignorar carpetas de configuración de editores
+.idea/
+.vscode/
+
+# Ignorar archivos de sistema (especialmente en Mac)
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos temporales de compilación (cuando empecemos con Java)
+target/
+build/
+*.class
+
+# Ignorar logs de Docker
+*.log
